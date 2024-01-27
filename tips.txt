@@ -1,0 +1,8 @@
+is js website--
+does it has hidden api check-
+500 - request sending missing some info
+request payload must send as json object.
+two request send
+for post request override start_request method so dont need start_urls 
+
+instead we use def start_requests(self):

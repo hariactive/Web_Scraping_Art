@@ -1,0 +1,13 @@
+cd pyproj
+
+c:\Users\harig\pyver\py12\python -m venv my_env
+
+tree my_env
+
+my_env\Scripts\activate
+
+install packages here-------
+
+deactivate
+
+python -m venv venv
